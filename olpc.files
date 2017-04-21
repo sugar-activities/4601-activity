@@ -1,0 +1,15 @@
+Activities
+Library
+.AbiSuite
+.config
+.dbus
+.fontconfig
+.gconf
+.gconfd
+.gnome2
+.gome2_private
+.gvfs
+.library_pages
+.nautilus
+.pulse
+.scim
